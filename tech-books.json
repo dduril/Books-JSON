@@ -52,35 +52,40 @@
     "index_code" : "Python",
     "year_published" : 2009,
     "number_pages" : 232,
-    "time_stamp" : "2015-12-21"
+    "time_stamp" : "2015-12-21",
+    "tags" : ["Python", "Programming"]
     },
     {
     "title" : "Perl Best Practices",
     "index_code" : "Perl",
     "year_published" : 2005,
     "number_pages" : 517,
-    "time_stamp" : "2015-11-29"
+    "time_stamp" : "2015-11-29",
+    "tags" : ["Perl", "Programming"]
     },
     {
     "title" : "Intermediate Perl",
     "index_code" : "Perl",
     "year_published" : 2012,
     "number_pages" : 371,
-    "time_stamp" : "2015-11-29"
+    "time_stamp" : "2015-11-29",
+    "tags" : ["Perl", "Programming"]
     },
     {
     "title" : "Learning Perl",
     "index_code" : "Perl",
     "year_published" : 2011,
     "number_pages" : 363,
-    "time_stamp" : "2015-11-29"
+    "time_stamp" : "2015-11-29",
+    "tags" : ["Perl", "Programming"]
     },
     {
     "title" : "Learning R",
     "index_code" : "R",
     "year_published" : 2013,
     "number_pages" : 377,
-    "time_stamp" : "2015-11-29"
+    "time_stamp" : "2015-11-29",
+    "tags" : ["R", "Programming"]
     },
     {
     "title" : "You Dont Know JS - Async &amp; Performance",

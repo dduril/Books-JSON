@@ -6,34 +6,38 @@
         "number_pages" : 413,
         "time_stamp" : "2016-02-05",
         "tags" : ["R", "RStudio", "Data Science", "Programming"]
-    },
+    }, 
 	{
 		"title" : "Web Scraping with Python",
 		"index_code" : "Python",
 		"year_published" : 2015,
 		"number_pages" : 238,
-		"time_stamp" : "2016-02-05"
+		"time_stamp" : "2016-02-05",
+        "tags" : ["Python", "Web scraping", "Programming"]
 	},
 	{
 		"title" : "Java A Beginners Guide",
 		"index_code" : "Java",
 		"year_published" : 2014,
 		"number_pages" : 699,
-		"time_stamp" : "2016-02-05"
+		"time_stamp" : "2016-02-05",
+        "tags" : ["Java", "Eclipse", "OOP", "Programming"]
 	},
 	{
 		"title" : "Storytelling with Data",
 		"index_code" : "Data Visualization",
 		"year_published" : 20,
 		"number_pages" : 267,
-		"time_stamp" : "2015-12-21"
+		"time_stamp" : "2015-12-21",
+        "tags" : ["Charts", "Graphs", "Visualization"]
 	},
 	{
 		"title" : "Hadoop: The Definitive Guide",
 		"index_code" : "Hadoop",
 		"year_published" : 2015,
 		"number_pages" : 727,
-		"time_stamp" : "2015-12-21"
+		"time_stamp" : "2015-12-21",
+        "tags" : ["Hadoop", "Spark", "Pig"]
 	},
 	{
 		"title" : "Data Science from Scratch",

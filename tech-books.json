@@ -4,7 +4,8 @@
 		'index_code' : 'R',
 		'year_published' : 2011,
 		'number_pages' : 413,
-		'time_stamp' : '2016-02-05'
+		'time_stamp' : '2016-02-05',
+        'tags' : ["R", "RStudio", "Data Science", "Cookbook"]
 	},
 	{
 		'title' : 'Web Scraping with Python',

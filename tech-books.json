@@ -132,42 +132,48 @@
     "index_code" : "Linux",
     "year_published" : 2012,
     "number_pages" : 446,
-    "time_stamp" : "2015-09-13"
+    "time_stamp" : "2015-09-13",
+    "tags" : ["Linux"]
     },
     {
     "title" : "Automate the Boring Stuff with Python",
     "index_code" : "Python",
     "year_published" : 2015,
     "number_pages" : 479,
-    "time_stamp" : "2015-09-13"
+    "time_stamp" : "2015-09-13",
+    "tags" : ["Python", "Programming"]
     },
     {
     "title" : "Programming in HTML5 with JavaScript and CSS3 (Exam Ref)",
     "index_code" : "Web Development",
     "year_published" : 2014,
     "number_pages" : 336,
-    "time_stamp" : "2015-08-08"
+    "time_stamp" : "2015-08-08",
+    "tags" : ["JavaScript", "HTML5", "CSS3", "Programming"]
     },
     {
     "title" : "Programming in HTML5 with JavaScript and CSS3 (Training Guide)",
     "index_code" : "Web Development",
     "year_published" : 2014,
     "number_pages" : 654,
-    "time_stamp" : "2015-08-08"
+    "time_stamp" : "2015-08-08",
+    "tags" : ["JavaScript", "HTML5", "CSS3", "Programming"]
     },
     {
     "title" : "C# 2012",
     "index_code" : "C#",
     "year_published" : 2013,
     "number_pages" : 850,
-    "time_stamp" : "2015-08-08"
+    "time_stamp" : "2015-08-08",
+    "tags" : ["C#", "Programming"]
     },
     {
     "title" : "ASP.NET 4.5 Web Programming with C# 2012",
     "index_code" : "ASP.NET",
     "year_published" : 2013,
     "number_pages" : 822,
-    "time_stamp" : "2015-08-08"
+    "time_stamp" : "2015-08-08",
+    "tags" : ["ASP.NET", "C#", "Programming"]
     },
     {
     "title" : "Mastering TypeScript",

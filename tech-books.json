@@ -92,35 +92,40 @@
     "index_code" : "JavaScript",
     "year_published" : 2015,
     "number_pages" : 276,
-    "time_stamp" : "2015-09-27"
+    "time_stamp" : "2015-09-27",
+    "tags" : ["JavaScript", "Programming"]
     },
     {
     "title" : "You Dont Know JS - Types &amp; Grammar",
     "index_code" : "JavaScript",
     "year_published" : 2015,
     "number_pages" : 177,
-    "time_stamp" : "2015-09-27"
+    "time_stamp" : "2015-09-27",
+    "tags" : ["JavaScript", "Programming"]
     },
     {
     "title" : "You Dont Know JS - this &amp; Object Prototypes",
     "index_code" : "JavaScript",
     "year_published" : 2015,
     "number_pages" : 153,
-    "time_stamp" : "2015-09-26"
+    "time_stamp" : "2015-09-26",
+    "tags" : ["JavaScript", "Programming"]
     },
     {
     "title" : "You Dont Know JS - Scope &amp; Closures",
     "index_code" : "JavaScript",
     "year_published" : 2015,
     "number_pages" : 78,
-    "time_stamp" : "2015-09-26"
+    "time_stamp" : "2015-09-26",
+    "tags" : ["JavaScript", "Programming"]
     },
     {
     "title" : "You Dont Know JS - Up &amp; Going",
     "index_code" : "JavaScript",
     "year_published" : 2015,
     "number_pages" : 72,
-    "time_stamp" : "2015-09-26"
+    "time_stamp" : "2015-09-26",
+    "tags" : ["JavaScript", "Programming"]
     },
     {
     "title" : "The Linux Command Line",

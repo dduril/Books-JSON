@@ -220,35 +220,40 @@
     "index_code" : "ASP.NET",
     "year_published" : 2014,
     "number_pages" : 584,
-    "time_stamp" : "2015-02-18"
+    "time_stamp" : "2015-02-18",
+    "tags" : ["ASP.NET", "MVC", "Razor", "Framework", "Visual Studio"]
     },
     {
     "title" : "Soft Skills",
     "index_code" : "Software Dev",
     "year_published" : 2015,
     "number_pages" : 470,
-    "time_stamp" : "2015-02-18"
+    "time_stamp" : "2015-02-18",
+    "tags" : ["Craftsmanship", "Best Practices", "Communication"]
     },
     {
     "title" : "The Software Craftsman",
     "index_code" : "Software Dev",
     "year_published" : 2015,
     "number_pages" : 251,
-    "time_stamp" : "2015-02-18"
+    "time_stamp" : "2015-02-18",
+    "tags" : ["Craftsmanship", "Best Practices", "Communication"]
     },
     {
     "title" : "Murachs ASP.NET 4.5 Web Programming with C# 2012",
     "index_code" : "C#",
     "year_published" : 2013,
     "number_pages" : 822,
-    "time_stamp" : "2014-10-02"
+    "time_stamp" : "2014-10-02",
+    "tags" : ["ASP.NET", "Web", "Programming", "C#", "Visual Studio"]
     },
     {
     "title" : "Murachs C# 2012",
     "index_code" : "C#",
     "year_published" : 2013,
     "number_pages" : 850,
-    "time_stamp" : "2014-10-02"
+    "time_stamp" : "2014-10-02",
+    "tags" : ["C#", "Programming", "OOP", "Software", "Design"]
     },
     {
     "title" : "Node.js, MongoDB and AngularJS Web Development",

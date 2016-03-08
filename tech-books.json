@@ -180,35 +180,40 @@
     "index_code" : "JavaScript",
     "year_published" : 2015,
     "number_pages" : 337,
-    "time_stamp" : "2015-08-08"
+    "time_stamp" : "2015-08-08",
+    "tags" : ["TypeScript"]
     },
     {
     "title" : "Professional AngularJS",
     "index_code" : "Front End Development",
     "year_published" : 2015,
     "number_pages" : 358,
-    "time_stamp" : "2015-08-08"
+    "time_stamp" : "2015-08-08",
+    "tags" : ["AngularJS"]
     },
     {
     "title" : "Essential Scrum",
     "index_code" : "Software Dev",
     "year_published" : 2013,
     "number_pages" : 452,
-    "time_stamp" : "2015-03-04"
+    "time_stamp" : "2015-03-04",
+    "tags" : ["Scrum", "Agile", "Software", "Development"]
     },
     {
     "title" : "Scrum",
     "index_code" : "Software Dev",
     "year_published" : 2014,
     "number_pages" : 248,
-    "time_stamp" : "2015-03-04"
+    "time_stamp" : "2015-03-04",
+    "tags" : ["Scrum", "Agile", "Software", "Development"]
     },
     {
     "title" : "Professional ALM with Visual Studion 2013",
     "index_code" : "Software Dev",
     "year_published" : 2014,
     "number_pages" : 656,
-    "time_stamp" : "2015-02-18"
+    "time_stamp" : "2015-02-18",
+    "tags" : ["ALM", "LiceCycle", "Visual Studio"]
     },
     {
     "title" : "Professional ASP.NET MVC 5",

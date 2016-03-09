@@ -300,28 +300,32 @@
     "index_code" : "UI Design",
     "year_published" : 2011,
     "number_pages" : 242,
-    "time_stamp" : "2014-01-24"
+    "time_stamp" : "2014-01-24",
+    "tags" : ["Design"]
     },
     {
     "title" : "Rocket Surgery Made Easy",
     "index_code" : "UI Design",
     "year_published" : 2010,
     "number_pages" : 161,
-    "time_stamp" : "2014-01-24"
+    "time_stamp" : "2014-01-24",
+    "tags" : ["Design", "UI", "UX", "User Experience"]
     },
     {
     "title" : "Node.js in Action",
     "index_code" : "JavaScript",
     "year_published" : 2013,
     "number_pages" : 416,
-    "time_stamp" : "2013-11-22"
+    "time_stamp" : "2013-11-22",
+    "tags" : ["NodeJS", "npm", "JavaScript"]
     },
     {
     "title" : "Single Page Web Applications",
     "index_code" : "Web Development",
     "year_published" : 2014,
     "number_pages" : 407,
-    "time_stamp" : "2013-10-21"
+    "time_stamp" : "2013-10-21",
+    "tags" : ["SPA", "JavaScript", "HTML", "CSS"]
     },
     {
     "title" : "Responsive Web Design by Example",

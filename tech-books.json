@@ -260,35 +260,40 @@
     "index_code" : "Web Development",
     "year_published" : 2014,
     "number_pages" : 647,
-    "time_stamp" : "2014-07-20"
+    "time_stamp" : "2014-07-20",
+    "tags" : ["NodeJS", "MongoDB", "AngularJS", "ExpressJS", "MEAN"]
     },
     {
     "title" : "Oracle PL/SQL Programming",
     "index_code" : "Oracle",
     "year_published" : 2014,
     "number_pages" : 1340,
-    "time_stamp" : "2014-07-20"
+    "time_stamp" : "2014-07-20",
+    "tags" : ["Oracle", "PL/SQL", "SQL", "Databases"]
     },
     {
     "title" : "Web Development Recipes",
     "index_code" : "Web Development",
     "year_published" : 2012,
     "number_pages" : 321,
-    "time_stamp" : "2014-05-13"
+    "time_stamp" : "2014-05-13",
+    "tags" : ["HTML", "CSS", "JavaScript", "Recipes"]
     },
     {
     "title" : "Pro jQuery 2.0",
     "index_code" : "JavaScript",
     "year_published" : 2013,
     "number_pages" : 1008,
-    "time_stamp" : "2014-05-13"
+    "time_stamp" : "2014-05-13",
+    "tags" : ["jQuery", "JavaScript"]
     },
     {
     "title" : "Universal Methods Of Design",
     "index_code" : "UI Design",
     "year_published" : 2012,
     "number_pages" : 207,
-    "time_stamp" : "2014-01-24"
+    "time_stamp" : "2014-01-24",
+    "tags" : ["Design"]
     },
     {
     "title" : "100 Things Every Designer Needs To Know About People",

@@ -437,7 +437,7 @@
     "year_published" : 2012,
     "number_pages" : 308,
     "time_stamp" : "2013-05-31",
-    "tags" : ["Node.js"]
+    "tags" : ["Node.js", "Smashing"]
     },
     {
     "title" : "jQuery Pocket Reference",
@@ -445,7 +445,7 @@
     "year_published" : 2011,
     "number_pages" : 146,
     "time_stamp" : "2013-05-31",
-    "tags" : ["jQuery"]
+    "tags" : ["jQuery", "Pocket Reference"]
     },
     {
     "title" : "CSS Pocket Reference",
@@ -453,7 +453,7 @@
     "year_published" : 2011,
     "number_pages" : 238,
     "time_stamp" : "2013-05-31",
-    "tags" : ["CSS"]
+    "tags" : ["CSS", "Pocket Reference"]
     },
     {
     "title" : "Guerrilla Marketing for Job Hunters 3.0",
@@ -476,35 +476,40 @@
     "index_code" : "C#",
     "year_published" : 2012,
     "number_pages" : 732,
-    "time_stamp" : "2013-02-28"
+    "time_stamp" : "2013-02-28",
+    "tags" : ["C#", "ASP.NET"]
     },
     {
     "title" : "Pro ASP.NET MVC 4",
     "index_code" : "ASP.NET",
     "year_published" : 2012,
     "number_pages" : 729,
-    "time_stamp" : "2013-02-28"
+    "time_stamp" : "2013-02-28",
+    "tags" : ["ASP.NET", "MVC"]
     },
     {
     "title" : "JavaScript and jQuery",
     "index_code" : "JavaScript",
     "year_published" : 2012,
     "number_pages" : 598,
-    "time_stamp" : "2013-01-29"
+    "time_stamp" : "2013-01-29",
+    "tags" : ["JavaScript", "jQuery"]
     },
     {
     "title" : "Head First - Design Patterns",
     "index_code" : "Software Dev",
     "year_published" : 2004,
     "number_pages" : 638,
-    "time_stamp" : "2012-11-20"
+    "time_stamp" : "2012-11-20",
+    "tags" : ["Head First", "Software", "Development", "Design Patterns"]
     },
     {
     "title" : "Head First - Software Development",
     "index_code" : "Software Dev",
     "year_published" : 2008,
     "number_pages" : 459,
-    "time_stamp" : "2012-11-20"
+    "time_stamp" : "2012-11-20",
+    "tags" : ["Head First", "Software", "Development"]
     },
     {
     "title" : "Coding Interview Questions",

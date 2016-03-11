@@ -332,35 +332,40 @@
     "index_code" : "Web Development",
     "year_published" : 2013,
     "number_pages" : 317,
-    "time_stamp" : "2013-10-21"
+    "time_stamp" : "2013-10-21",
+    "tags" : ["Responsive Web Design"]
     },
     {
     "title" : "Backbone.js Cookbook",
     "index_code" : "JavaScript",
     "year_published" : 2013,
     "number_pages" : 266,
-    "time_stamp" : "2013-10-21"
+    "time_stamp" : "2013-10-21",
+    "tags" : ["Backbone.js", "JavaScript". "Templates"]
     },
     {
     "title" : "SASS and Compass in Action",
     "index_code" : "CSS",
     "year_published" : 2013,
     "number_pages" : 216,
-    "time_stamp" : "2013-09-25"
+    "time_stamp" : "2013-09-25",
+    "tags" : ["SASS", "CSS", "Compass"]
     },
     {
     "title" : "LESS CSS Preprocessor How-to",
     "index_code" : "CSS",
     "year_published" : 2013,
     "number_pages" : 68,
-    "time_stamp" : "2013-09-25"
+    "time_stamp" : "2013-09-25",
+    "tags" : ["LESS", "CSS"]
     },
     {
     "title" : "Smashing CoffeeScript",
     "index_code" : "JavaScript",
     "year_published" : 2013,
     "number_pages" : 322,
-    "time_stamp" : "2013-09-25"
+    "time_stamp" : "2013-09-25",
+    "tags" : ["CoffeeScript", "JavaScript"]
     },
     {
     "title" : "Quick Python Book, The",

@@ -436,35 +436,40 @@
     "index_code" : "JavaScript",
     "year_published" : 2012,
     "number_pages" : 308,
-    "time_stamp" : "2013-05-31"
+    "time_stamp" : "2013-05-31",
+    "tags" : ["Node.js"]
     },
     {
     "title" : "jQuery Pocket Reference",
     "index_code" : "JavaScript",
     "year_published" : 2011,
     "number_pages" : 146,
-    "time_stamp" : "2013-05-31"
+    "time_stamp" : "2013-05-31",
+    "tags" : ["jQuery"]
     },
     {
     "title" : "CSS Pocket Reference",
     "index_code" : "CSS",
     "year_published" : 2011,
     "number_pages" : 238,
-    "time_stamp" : "2013-05-31"
+    "time_stamp" : "2013-05-31",
+    "tags" : ["CSS"]
     },
     {
     "title" : "Guerrilla Marketing for Job Hunters 3.0",
     "index_code" : "Software Dev",
     "year_published" : 2011,
     "number_pages" : 315,
-    "time_stamp" : "2013-03-28"
+    "time_stamp" : "2013-03-28",
+    "tags" : ["Job Search"]
     },
     {
     "title" : "Google Resume",
     "index_code" : "Software Dev",
     "year_published" : 2011,
     "number_pages" : 280,
-    "time_stamp" : "2013-03-28"
+    "time_stamp" : "2013-03-28",
+    "tags" : ["Google", "Job Search", "informational"]
     },
     {
     "title" : "Illustrated C# 2012",

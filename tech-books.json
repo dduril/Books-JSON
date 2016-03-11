@@ -372,21 +372,24 @@
     "index_code" : "Python",
     "year_published" : 2010,
     "number_pages" : 336,
-    "time_stamp" : "2013-08-13"
+    "time_stamp" : "2013-08-13",
+    "tags" : ["Python", "Programming"]
     },
     {
     "title" : "Python 3 Object Oriented Programming",
     "index_code" : "Python",
     "year_published" : 2010,
     "number_pages" : 388,
-    "time_stamp" : "2013-08-13"
+    "time_stamp" : "2013-08-13",
+    "tags" : ["Python", "Programming"]
     },
     {
     "title" : "Core Python Applications Programming",
     "index_code" : "Python",
     "year_published" : 2012,
     "number_pages" : 852,
-    "time_stamp" : "2013-08-01"
+    "time_stamp" : "2013-08-01",
+    "tags" : ["Python", "Programming"]
     },
     {
     "title" : "ACE The Programming Interview",

@@ -396,35 +396,40 @@
     "index_code" : "Software Dev",
     "year_published" : 2013,
     "number_pages" : 419,
-    "time_stamp" : "2013-08-01"
+    "time_stamp" : "2013-08-01",
+    "tags" : ["Interview", "Programming"]
     },
     {
     "title" : "Developing Backbone.js Applications",
     "index_code" : "JavaScript",
     "year_published" : 2013,
     "number_pages" : 354,
-    "time_stamp" : "2013-06-18"
+    "time_stamp" : "2013-06-18",
+    "tags" : ["Backbone.js", "Programming"]
     },
     {
     "title" : "Beginning Google Maps API 3",
     "index_code" : "JavaScript",
     "year_published" : 2010,
     "number_pages" : 310,
-    "time_stamp" : "2013-06-18"
+    "time_stamp" : "2013-06-18",
+    "tags" : ["Google", "Maps"]
     },
     {
     "title" : "Maintainable JavaScript",
     "index_code" : "JavaScript",
     "year_published" : 2012,
     "number_pages" : 219,
-    "time_stamp" : "2013-05-31"
+    "time_stamp" : "2013-05-31",
+    "tags" : ["JavaScript", "Web Programming"]
     },
     {
     "title" : "Secrets of the JavaScript Ninja",
     "index_code" : "JavaScript",
     "year_published" : 2013,
     "number_pages" : 370,
-    "time_stamp" : "2013-05-31"
+    "time_stamp" : "2013-05-31",
+    "tags" : ["JavaScript", "Web Programming", "Ninja"]
     },
     {
     "title" : "Smashing Node.js",

@@ -556,70 +556,80 @@
     "index_code" : "HTML5",
     "year_published" : 2011,
     "number_pages" : 1041,
-    "time_stamp" : "2012-06-24"
+    "time_stamp" : "2012-06-24",
+    "tags" : ["HTML5", "CSS3", "JavaScript"]
     },
     {
     "title" : "Java The Complete Reference",
     "index_code" : "Java",
     "year_published" : 2011,
     "number_pages" : 1116,
-    "time_stamp" : "2012-06-24"
+    "time_stamp" : "2012-06-24",
+    "tags" : ["Java", "OOP", "Eclipse"]
     },
     {
     "title" : "Pro Web Project Management",
     "index_code" : "Software Dev",
     "year_published" : 2011,
     "number_pages" : 239,
-    "time_stamp" : "2012-06-24"
+    "time_stamp" : "2012-06-24",
+    "tags" : ["Web Development", "Project Management"]
     },
     {
     "title" : "Ruby on Rails 3 Tutorial: Learn Rails by Example",
     "index_code" : "Ruby on Rails",
     "year_published" : 2010,
     "number_pages" : 576,
-    "time_stamp" : "2012-01-05"
+    "time_stamp" : "2012-01-05",
+    "tags" : ["Ruby", "Rails", "Tutorial"]
     },
     {
     "title" : "Rails 3 Way, The (Second Edition)",
     "index_code" : "Ruby on Rails",
     "year_published" : 2010,
     "number_pages" : 768,
-    "time_stamp" : "2012-01-05"
+    "time_stamp" : "2012-01-05",
+    "tags" : ["Rails", "Ruby on Rails"]
     },
     {
     "title" : "Eloquent Ruby",
     "index_code" : "Ruby",
     "year_published" : 2011,
     "number_pages" : 448,
-    "time_stamp" : "2012-01-05"
+    "time_stamp" : "2012-01-05",
+    "tags" : ["", "", "", ""]
     },
     {
     "title" : "Well Grounded Rubyist, The",
     "index_code" : "Ruby",
     "year_published" : 2009,
     "number_pages" : 487,
-    "time_stamp" : "2012-01-05"
+    "time_stamp" : "2012-01-05",
+    "tags" : ["", "", "", ""]
     },
     {
     "title" : "Beginning PHP and MySQL (Fourth Edition)",
     "index_code" : "PHP",
     "year_published" : 2010,
     "number_pages" : 787,
-    "time_stamp" : "2012-01-05"
+    "time_stamp" : "2012-01-05",
+    "tags" : ["", "", "", ""]
     },
     {
     "title" : "WordPress",
     "index_code" : "CMS",
     "year_published" : 2010,
     "number_pages" : 644,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["", "", "", ""]
     },
     {
     "title" : "Learning the Vi and Vim Editors",
     "index_code" : "Unix",
     "year_published" : 2008,
     "number_pages" : 470,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["", "", "", ""]
     },
     {
     "title" : "Beginning Ubuntu Linux : Natty Narwhal Edition",

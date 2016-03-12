@@ -516,35 +516,40 @@
     "index_code" : "Software Dev",
     "year_published" : 2012,
     "number_pages" : 496,
-    "time_stamp" : "2012-11-20"
+    "time_stamp" : "2012-11-20",
+    "tags" : ["Coding", "Interview"]
     },
     {
     "title" : "Cracking the Coding Interview 5th Edition",
     "index_code" : "Software Dev",
     "year_published" : 2012,
     "number_pages" : 500,
-    "time_stamp" : "2012-11-20"
+    "time_stamp" : "2012-11-20",
+    "tags" : ["Coding", "Interview"]
     },
     {
     "title" : "Art of Unit Testing, The",
     "index_code" : "ASP.NET",
     "year_published" : 2009,
     "number_pages" : 296,
-    "time_stamp" : "2012-09-08"
+    "time_stamp" : "2012-09-08",
+    "tags" : ["ASP.NET"]
     },
     {
     "title" : "Dependency Injection in .NET",
     "index_code" : "ASP.NET",
     "year_published" : 2012,
     "number_pages" : 552,
-    "time_stamp" : "2012-09-08"
+    "time_stamp" : "2012-09-08",
+    "tags" : ["ASP.NET"]
     },
     {
     "title" : "Continuous Integration in .NET",
     "index_code" : "ASP.NET",
     "year_published" : 2011,
     "number_pages" : 303,
-    "time_stamp" : "2012-09-08"
+    "time_stamp" : "2012-09-08",
+    "tags" : ["ASP.NET"]
     },
     {
     "title" : "The Definitive Guide to HTML5",

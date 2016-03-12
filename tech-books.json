@@ -597,7 +597,7 @@
     "year_published" : 2011,
     "number_pages" : 448,
     "time_stamp" : "2012-01-05",
-    "tags" : ["", "", "", ""]
+    "tags" : ["Ruby", "DRY", "Craftsmanship", "Programming"]
     },
     {
     "title" : "Well Grounded Rubyist, The",
@@ -605,7 +605,7 @@
     "year_published" : 2009,
     "number_pages" : 487,
     "time_stamp" : "2012-01-05",
-    "tags" : ["", "", "", ""]
+    "tags" : ["Ruby", "Principles", "Programming"]
     },
     {
     "title" : "Beginning PHP and MySQL (Fourth Edition)",
@@ -613,7 +613,7 @@
     "year_published" : 2010,
     "number_pages" : 787,
     "time_stamp" : "2012-01-05",
-    "tags" : ["", "", "", ""]
+    "tags" : ["PHP", "MySQL", "Web Programming"]
     },
     {
     "title" : "WordPress",
@@ -621,7 +621,7 @@
     "year_published" : 2010,
     "number_pages" : 644,
     "time_stamp" : "2011-11-12",
-    "tags" : ["", "", "", ""]
+    "tags" : ["WordPress", "CMS", "PHP", "MySQL", "Web Development"]
     },
     {
     "title" : "Learning the Vi and Vim Editors",
@@ -629,7 +629,7 @@
     "year_published" : 2008,
     "number_pages" : 470,
     "time_stamp" : "2011-11-12",
-    "tags" : ["", "", "", ""]
+    "tags" : ["vi", "vim", "Linux", "editor"]
     },
     {
     "title" : "Beginning Ubuntu Linux : Natty Narwhal Edition",

@@ -692,35 +692,40 @@
     "index_code" : "Unix",
     "year_published" : 1994,
     "number_pages" : 250,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Unix"]
     },
     {
     "title" : "Dont Make Me Think",
     "index_code" : "UI Design",
     "year_published" : 2000,
     "number_pages" : 195,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["UI", "UX"]
     },
     {
     "title" : "The Gurus Guide to Transact-SQL",
     "index_code" : "SQL",
     "year_published" : 2000,
     "number_pages" : 551,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["T-SQL", "Databases", "SQL"]
     },
     {
     "title" : "SQL Pocket Guide",
     "index_code" : "SQL",
     "year_published" : 2004,
     "number_pages" : 154,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : [""SQL", "Databases", "pocket guide""]
     },
     {
     "title" : "SQL Cookbook",
     "index_code" : "SQL",
     "year_published" : 2005,
     "number_pages" : 595,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["SQL", "Databases", "cookbook"]
     },
     {
     "title" : "The Pragmatic Programmer",

@@ -652,35 +652,40 @@
     "index_code" : "JavaScript",
     "year_published" : 2011,
     "number_pages" : 260,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["JavaScript"]
     },
     {
     "title" : "HTML5 Canvas",
     "index_code" : "HTML5",
     "year_published" : 2011,
     "number_pages" : 628,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["HTML5", "canvas"]
     },
     {
     "title" : "Pro Git",
     "index_code" : "Software Dev",
     "year_published" : 2009,
     "number_pages" : 265,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Git", "github", "version control"]
     },
     {
     "title" : "Web 2.0 Mashups - How to do everything",
     "index_code" : "Web 2.0",
     "year_published" : 2008,
     "number_pages" : 303,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Web Programming"]
     },
     {
     "title" : "VBScript Pocket Reference",
     "index_code" : "VBScript",
     "year_published" : 2001,
     "number_pages" : 118,
-    "time_stamp" : "2011-11-12"
+    "time_stamp" : "2011-11-12",
+    "tags" : ["VBScript", "pocket reference"]
     },
     {
     "title" : "Unix in a Nutshell",

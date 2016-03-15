@@ -21,7 +21,7 @@
     "year_published" : 2014,
     "number_pages" : 699,
     "time_stamp" : "2016-02-05",
-    "tags" : ["Java", "Eclipse", "OOP", "Programming"]
+    "tags" : ["Java", "Eclipse", "OOP", "Programming", "Object Oriented"]
     },
     {
     "title" : "Storytelling with Data",
@@ -29,7 +29,7 @@
     "year_published" : 20,
     "number_pages" : 267,
     "time_stamp" : "2015-12-21",
-    "tags" : ["Charts", "Graphs", "Visualization"]
+    "tags" : ["data", "Charts", "Graphs", "Visualization"]
     },
     {
     "title" : "Hadoop: The Definitive Guide",
@@ -37,7 +37,7 @@
     "year_published" : 2015,
     "number_pages" : 727,
     "time_stamp" : "2015-12-21",
-    "tags" : ["Hadoop", "Spark", "Pig", "Hive"]
+    "tags" : ["Hadoop", "Spark", "Pig", "Hive", "Python"]
     },
     {
     "title" : "Data Science from Scratch",
@@ -45,7 +45,7 @@
     "year_published" : 2015,
     "number_pages" : 311,
     "time_stamp" : "2015-12-21",
-    "tags" : ["Data science", "Python"]
+    "tags" : ["Data", "Data science", "Python"]
     },
     {
     "title" : "Python for Informatics",

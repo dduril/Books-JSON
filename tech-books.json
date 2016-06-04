@@ -1,5 +1,21 @@
 [
     {
+    "title" : "Cracking the Coding Interview 6th Edition",
+    "index_code" : "Software Dev",
+    "year_published" : 2015,
+    "number_pages" : 696,
+    "time_stamp" : "2016-06-04",
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
+    },
+    {
+    "title" : "Programming Interviews Exposed 3rd Edition",
+    "index_code" : "Software Dev",
+    "year_published" : 2013,
+    "number_pages" : 301,
+    "time_stamp" : "2016-06-04",
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
+    },
+    {
     "title" : "Mastering Apache Cassandra",
     "index_code" : "Cassandra",
     "year_published" : 2015,

@@ -1,5 +1,13 @@
 [
     {
+    "title" : "Mastering Apache Cassandra",
+    "index_code" : "Cassandra",
+    "year_published" : 2015,
+    "number_pages" : 321,
+    "time_stamp" : "2016-06-04",
+    "tags" : ["Apache", "Cassandra", "Java", "Hadoop"]
+    }, 
+    {
     "title" : "JavaScript Frameworks for Modern Web Dev",
     "index_code" : "JavaScript",
     "year_published" : 2015,

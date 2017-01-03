@@ -1,12 +1,12 @@
 [
     {
-    "title" : "Cracking the Coding Interview 6th Edition",
-    "index_code" : "Software Dev",
+    "title" : "Mastering Apache Cassandra",
+    "index_code" : "Cassandra",
     "year_published" : 2015,
-    "number_pages" : 696,
+    "number_pages" : 321,
     "time_stamp" : "2016-06-04",
-    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
-    },
+    "tags" : ["Apache", "Cassandra", "Java", "Hadoop"]
+    }, 
     {
     "title" : "Programming Interviews Exposed 3rd Edition",
     "index_code" : "Software Dev",
@@ -16,20 +16,20 @@
     "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
     },
     {
-    "title" : "Mastering Apache Cassandra",
-    "index_code" : "Cassandra",
+    "title" : "Cracking the Coding Interview 6th Edition",
+    "index_code" : "Software Dev",
     "year_published" : 2015,
-    "number_pages" : 321,
+    "number_pages" : 696,
     "time_stamp" : "2016-06-04",
-    "tags" : ["Apache", "Cassandra", "Java", "Hadoop"]
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
     }, 
     {
-    "title" : "JavaScript Frameworks for Modern Web Dev",
-    "index_code" : "JavaScript",
-    "year_published" : 2015,
-    "number_pages" : 485,
+    "title" : "Ionic in Action",
+    "index_code" : "Ionic",
+    "year_published" : 2016,
+    "number_pages" : 254,
     "time_stamp" : "2016-03-16",
-    "tags" : ["JavaScript", "NodeJS", "npm", "Bower", "Grunt", "Yeoman"]
+    "tags" : ["Ionic", "Cordova", "Mobile App", "HTML", "CSS", "JavaScript"]
     }, 
     {
     "title" : "Apache Cordova in Action",
@@ -40,12 +40,12 @@
     "tags" : ["Apache", "Cordova", "Mobile App", "HTML", "CSS", "JavaScript"]
     }, 
     {
-    "title" : "Ionic in Action",
-    "index_code" : "Ionic",
-    "year_published" : 2016,
-    "number_pages" : 254,
+    "title" : "JavaScript Frameworks for Modern Web Dev",
+    "index_code" : "JavaScript",
+    "year_published" : 2015,
+    "number_pages" : 485,
     "time_stamp" : "2016-03-16",
-    "tags" : ["Ionic", "Cordova", "Mobile App", "HTML", "CSS", "JavaScript"]
+    "tags" : ["JavaScript", "NodeJS", "npm", "Bower", "Grunt", "Yeoman"]
     }, 
     {
     "title" : "R Cookbook",

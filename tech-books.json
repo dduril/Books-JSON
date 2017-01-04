@@ -1,163 +1,187 @@
 [
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "How to Have a Good Day",
+    "index_code" : "Business",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Pre-Suasion",
+    "index_code" : "Business",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "The Coaching Habit",
+    "index_code" : "Business",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Thank You for Being Late",
+    "index_code" : "Current Affairs",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Rails, Angular, Postgres, and Bootstrap",
+    "index_code" : "Rails",
+    "year_published" : ,
+    "number_pages" : ,
+    "time_stamp" : "2017-01-03",
+    "tags" : ["Rails", "Angular", "Postgres", "Bootcamp", "Heroku"]
+    },
+    {
+    "title" : "Ruby Cookbook (2nd Edition)",
+    "index_code" : "Ruby",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Only Humans Need Apply",
+    "index_code" : "Technology",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Rise of the Robots",
+    "index_code" : "Technology",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "The Age of CryptoCurrency",
+    "index_code" : "Technology",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Thinking, Fast and Slow",
+    "index_code" : "Psychology",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "The Inevitable",
+    "index_code" : "Technology",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
     "tags" : ["", "", ""]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Python Cookbook",
+    "index_code" : "Python",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Python"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Fluent Python",
+    "index_code" : "Python",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Python"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Cracking the Tech Career",
+    "index_code" : "Software Dev",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Cracking the PM Interview",
+    "index_code" : "Software Dev",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Social Networking for Career Success",
+    "index_code" : "Social Media",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Social Media", "Facebook", "LinkedIn", "Twitter"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "The Scrum Field Guide",
+    "index_code" : "Agile",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Agile", "Scrum", "Development"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Ruby on Rails Tutorial, 3rd Edition",
+    "index_code" : "Ruby on Rails",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Ruby", "Rails", "Cloud9", "Bitbucket", "Heroku"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
+    "title" : "Head First Ruby",
+    "index_code" : "Ruby",
     "year_published" : ,
     "number_pages" : ,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Ruby", "Programming", "Design"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
-    "year_published" : ,
-    "number_pages" : ,
+    "title" : "Grit: The Power of Passion and Perseverance",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 333,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["Grit"]
     },
     {
-    "title" : "test",
-    "index_code" : "",
-    "year_published" : ,
-    "number_pages" : ,
+    "title" : "TED Talks: Official TED Guide to Public Speaking",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 269,
     "time_stamp" : "2017-01-03",
-    "tags" : ["", "", ""]
+    "tags" : ["TED", "Public Speaking", "Presentations"]
+    },
+    {
+    "title" : "Customer Analytics for Dummies",
+    "index_code" : "Analytics",
+    "year_published" : 2015,
+    "number_pages" : 324,
+    "time_stamp" : "2017-01-03",
+    "tags" : ["Data", "Analytics", "Business Intelligence"]
+    },
+    {
+    "title" : "Getting a Coding Job for Dummies",
+    "index_code" : "Programming",
+    "year_published" : 2015,
+    "number_pages" : 278,
+    "time_stamp" : "2017-01-03",
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
     },
     {
     "title" : "Mastering Apache Cassandra",

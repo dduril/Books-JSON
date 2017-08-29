@@ -1,155 +1,155 @@
 [
     {
     "title" : "Declutter Your Mind",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Self-help",
+    "year_published" : 2016,
+    "number_pages" : 155,
     "time_stamp" : "2017-08-29",
     "tags" : [""]
     },
     {
     "title" : "Murach's MySQL, 2nd Edition",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Database",
+    "year_published" : 2015,
+    "number_pages" : 590,
     "time_stamp" : "2017-08-29",
-    "tags" : [""]
+    "tags" : ["MySQL", "Databases"]
     },
     {
     "title" : "Murach's Python Programming",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Programming",
+    "year_published" : 2016,
+    "number_pages" : 553,
     "time_stamp" : "2017-08-29",
-    "tags" : [""]
+    "tags" : ["Python"]
     },
     {
     "title" : "Murach's Java Programming, 5th Edition",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Programming",
+    "year_published" : 2017,
+    "number_pages" : 777,
     "time_stamp" : "2017-08-29",
-    "tags" : [""]
+    "tags" : ["Java"]
     },
     {
     "title" : "Raspberry Pi User Guide",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Raspberry Pi",
+    "year_published" : 2016,
+    "number_pages" : 293,
     "time_stamp" : "2017-08-29",
-    "tags" : [""]
+    "tags" : ["Raspberry Pi"]
     },
     {
     "title" : "Exploring Raspberry Pi",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Raspberry Pi",
+    "year_published" : 2016,
+    "number_pages" : 693,
     "time_stamp" : "2017-08-29",
-    "tags" : [""]
+    "tags" : ["Raspberry Pi"]
     },
     {
     "title" : "Learning Computer Architecture with Raspberry Pi",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Raspberry Pi",
+    "year_published" : 2016,
+    "number_pages" : 507,
     "time_stamp" : "2017-08-29",
-    "tags" : [""]
+    "tags" : ["Raspberry Pi"]
     },
     {
     "title" : "Programming Hive: Data Warehouse and Query Language for Hadoop",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2011,
+    "number_pages" : 350,
     "time_stamp" : "2017-05-12",
-    "tags" : [""]
+    "tags" : ["Hive"]
     },
     {
     "title" : "Learning Spark: Lightning-Fast Big Data Analysis",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2015,
+    "number_pages" : 276,
     "time_stamp" : "2017-05-12",
-    "tags" : [""]
+    "tags" : ["Spark"]
     },
     {
     "title" : "Hadoop in Practice: Includes 104 Techniques",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2014,
+    "number_pages" : 512,
     "time_stamp" : "2017-05-12",
-    "tags" : [""]
+    "tags" : ["Hadoop"]
     },
     {
     "title" : "Amazon Web Services in Action",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2015,
+    "number_pages" : 424,
     "time_stamp" : "2017-05-12",
-    "tags" : [""]
+    "tags" : ["AWS"]
     },
     {
     "title" : "Scala Cookbook",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2013,
+    "number_pages" : 694,
     "time_stamp" : "2017-05-04",
-    "tags" : [""]
+    "tags" : ["Scala"]
     },
     {
     "title" : "Spark in Action",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2017,
+    "number_pages" : 443,
     "time_stamp" : "2017-05-04",
-    "tags" : [""]
+    "tags" : ["Spark"]
     },
     {
     "title" : "Scala in Action",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2013,
+    "number_pages" : 393,
     "time_stamp" : "2017-05-04",
-    "tags" : [""]
+    "tags" : ["Scala"]
     },
     {
     "title" : "Practical Data Science with Hadoop and Spark",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2017,
+    "number_pages" : 230,
     "time_stamp" : "2017-05-04",
-    "tags" : [""]
+    "tags" : ["Hadoop", "Spark"]
     },
     {
     "title" : "Hadoop 2 Quick-Start Guide",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Science",
+    "year_published" : 2016,
+    "number_pages" : 278,
     "time_stamp" : "2017-05-04",
-    "tags" : [""]
+    "tags" : ["Hadoop"]
     },
     {
     "title" : "Mastering Tableau",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Visualization",
+    "year_published" : 2016,
+    "number_pages" : 458,
     "time_stamp" : "2017-03-03",
-    "tags" : [""]
+    "tags" : ["Tableau"]
     },
     {
     "title" : "R Graphics Cookbook",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Analysis",
+    "year_published" : 2013,
+    "number_pages" : 396,
     "time_stamp" : "2017-03-03",
-    "tags" : [""]
+    "tags" : ["R"]
     },
     {
     "title" : "R for Data Science",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "index_code" : "Data Analysis",
+    "year_published" : 2017,
+    "number_pages" : 492,
     "time_stamp" : "2017-03-03",
-    "tags" : [""]
+    "tags" : ["R"]
     },
     {
     "title" : "How to Have a Good Day",

@@ -1,6 +1,134 @@
 [
     {
-    "title" : "",
+    "title" : "Declutter Your Mind",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-08-29",
+    "tags" : [""]
+    },
+    {
+    "title" : "Murach's MySQL, 2nd Edition",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-08-29",
+    "tags" : [""]
+    },
+    {
+    "title" : "Murach's Python Programming",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-08-29",
+    "tags" : [""]
+    },
+    {
+    "title" : "Murach's Java Programming, 5th Edition",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-08-29",
+    "tags" : [""]
+    },
+    {
+    "title" : "Raspberry Pi User Guide",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-08-29",
+    "tags" : [""]
+    },
+    {
+    "title" : "Exploring Raspberry Pi",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-08-29",
+    "tags" : [""]
+    },
+    {
+    "title" : "Learning Computer Architecture with Raspberry Pi",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-08-29",
+    "tags" : [""]
+    },
+    {
+    "title" : "Programming Hive: Data Warehouse and Query Language for Hadoop",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-12",
+    "tags" : [""]
+    },
+    {
+    "title" : "Learning Spark: Lightning-Fast Big Data Analysis",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-12",
+    "tags" : [""]
+    },
+    {
+    "title" : "Hadoop in Practice: Includes 104 Techniques",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-12",
+    "tags" : [""]
+    },
+    {
+    "title" : "Amazon Web Services in Action",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-12",
+    "tags" : [""]
+    },
+    {
+    "title" : "Scala Cookbook",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-04",
+    "tags" : [""]
+    },
+    {
+    "title" : "Spark in Action",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-04",
+    "tags" : [""]
+    },
+    {
+    "title" : "Scala in Action",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-04",
+    "tags" : [""]
+    },
+    {
+    "title" : "Practical Data Science with Hadoop and Spark",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-04",
+    "tags" : [""]
+    },
+    {
+    "title" : "Hadoop 2 Quick-Start Guide",
+    "index_code" : "",
+    "year_published" : 0,
+    "number_pages" : 0,
+    "time_stamp" : "2017-05-04",
+    "tags" : [""]
+    },
+    {
+    "title" : "Mastering Tableau",
     "index_code" : "",
     "year_published" : 0,
     "number_pages" : 0,
@@ -8,7 +136,7 @@
     "tags" : [""]
     },
     {
-    "title" : "",
+    "title" : "R Graphics Cookbook",
     "index_code" : "",
     "year_published" : 0,
     "number_pages" : 0,
@@ -16,23 +144,7 @@
     "tags" : [""]
     },
     {
-    "title" : "",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
-    "time_stamp" : "2017-03-03",
-    "tags" : [""]
-    },
-    {
-    "title" : "",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
-    "time_stamp" : "2017-03-03",
-    "tags" : [""]
-    },
-    {
-    "title" : "",
+    "title" : "R for Data Science",
     "index_code" : "",
     "year_published" : 0,
     "number_pages" : 0,

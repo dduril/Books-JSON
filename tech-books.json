@@ -16,34 +16,34 @@
     "tags" : [""]
     },
     {
-    "title" : "",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "title" : "Give and Take",
+    "index_code" : "Business",
+    "year_published" : 2013,
+    "number_pages" : 307,
     "time_stamp" : "2017-09-09",
     "tags" : [""]
     },
     {
-    "title" : "",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "title" : "Originals",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 321,
     "time_stamp" : "2017-09-09",
     "tags" : [""]
     },
     {
-    "title" : "",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "title" : "The Art of Non-Conformity",
+    "index_code" : "Self-Help",
+    "year_published" : 2010,
+    "number_pages" : 242,
     "time_stamp" : "2017-09-09",
     "tags" : [""]
     },
     {
-    "title" : "",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
+    "title" : "The Happiness of Pursuit",
+    "index_code" : "Self-Help",
+    "year_published" : 2014,
+    "number_pages" : 309,
     "time_stamp" : "2017-09-09",
     "tags" : [""]
     },
@@ -61,7 +61,7 @@
     "year_published" : 2015,
     "number_pages" : 590,
     "time_stamp" : "2017-08-29",
-    "tags" : ["MySQL", "Databases"]
+    "tags" : ["MySQL", "Databases", "PHP"]
     },
     {
     "title" : "Murach's Python Programming",
@@ -69,7 +69,7 @@
     "year_published" : 2016,
     "number_pages" : 553,
     "time_stamp" : "2017-08-29",
-    "tags" : ["Python"]
+    "tags" : ["Python", "Programming"]
     },
     {
     "title" : "Murach's Java Programming, 5th Edition",
@@ -77,7 +77,7 @@
     "year_published" : 2017,
     "number_pages" : 777,
     "time_stamp" : "2017-08-29",
-    "tags" : ["Java"]
+    "tags" : ["Java", "Programming"]
     },
     {
     "title" : "Raspberry Pi User Guide",
@@ -85,7 +85,7 @@
     "year_published" : 2016,
     "number_pages" : 293,
     "time_stamp" : "2017-08-29",
-    "tags" : ["Raspberry Pi"]
+    "tags" : ["Raspberry Pi", "RPi", "Linux", "Open Source"]
     },
     {
     "title" : "Exploring Raspberry Pi",
@@ -93,7 +93,7 @@
     "year_published" : 2016,
     "number_pages" : 693,
     "time_stamp" : "2017-08-29",
-    "tags" : ["Raspberry Pi"]
+    "tags" : ["Raspberry Pi", "RPi", "Linux", "Open Source"]
     },
     {
     "title" : "Learning Computer Architecture with Raspberry Pi",
@@ -101,7 +101,7 @@
     "year_published" : 2016,
     "number_pages" : 507,
     "time_stamp" : "2017-08-29",
-    "tags" : ["Raspberry Pi"]
+    "tags" : ["Raspberry Pi", "RPi", "Architecture", "Hardware"]
     },
     {
     "title" : "Programming Hive: Data Warehouse and Query Language for Hadoop",

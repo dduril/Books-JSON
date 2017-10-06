@@ -1,19 +1,19 @@
 [
     {
-    "title" : "",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
-    "time_stamp" : "2017-09-18",
-    "tags" : [""]
+    "title" : "Born for This",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 313,
+    "time_stamp" : "2017-10-05",
+    "tags" : ["Business", "Career", "Entrepreneur", "Side Hustle"]
     },
     {
-    "title" : "",
-    "index_code" : "",
-    "year_published" : 0,
-    "number_pages" : 0,
-    "time_stamp" : "2017-09-18",
-    "tags" : [""]
+    "title" : "The $100 Startup",
+    "index_code" : "Business",
+    "year_published" : 2012,
+    "number_pages" : 285,
+    "time_stamp" : "2017-10-05",
+    "tags" : ["Business", "Career", "Entrepreneur", "Startup"]
     },
     {
     "title" : "Give and Take",
@@ -21,7 +21,7 @@
     "year_published" : 2013,
     "number_pages" : 307,
     "time_stamp" : "2017-09-09",
-    "tags" : [""]
+    "tags" : ["Advice", "Business"]
     },
     {
     "title" : "Originals",
@@ -29,7 +29,7 @@
     "year_published" : 2016,
     "number_pages" : 321,
     "time_stamp" : "2017-09-09",
-    "tags" : [""]
+    "tags" : ["Business"]
     },
     {
     "title" : "The Art of Non-Conformity",
@@ -37,7 +37,7 @@
     "year_published" : 2010,
     "number_pages" : 242,
     "time_stamp" : "2017-09-09",
-    "tags" : [""]
+    "tags" : ["Self-Help", "Career"]
     },
     {
     "title" : "The Happiness of Pursuit",
@@ -45,7 +45,7 @@
     "year_published" : 2014,
     "number_pages" : 309,
     "time_stamp" : "2017-09-09",
-    "tags" : [""]
+    "tags" : ["Self-Help", "Happiness"]
     },
     {
     "title" : "Declutter Your Mind",

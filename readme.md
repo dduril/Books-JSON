@@ -1,6 +1,6 @@
-# Books JSON
+## Books JSON
 
-## Collection of Various Books in JSON Format
+### Collection of Various Books in JSON Format
 
 Most of these books fall into the broad categories of business, psychology, programming and technical topics.
 
@@ -8,7 +8,7 @@ The main purpose of this repo is to have some ready to go json data to use in de
 
 This makes it relatively straight-forward to write scripts using Node.js, npm and the MongoDB or Mongoose packages, or Python, pip and the pymongo library for MongoDB.
 
-**Sample JSON data format**
+**Sample JSON data format:**
 
 	{
     	"title" : "Raspberry Pi User Guide",

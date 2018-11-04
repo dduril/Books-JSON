@@ -1,11 +1,43 @@
 [
     {
+    "title" : "Getting Things Done",
+    "index_code" : "Business",
+    "year_published" : 2015,
+    "number_pages" : 317,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["Business", "Psychology"]
+    },
+    {
+    "title" : "Crucial Conversations",
+    "index_code" : "Business",
+    "year_published" : 2012,
+    "number_pages" : 244,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["Business", "Communication"]
+    },
+    {
+    "title" : "Crucial Accountability",
+    "index_code" : "Business",
+    "year_published" : 2013,
+    "number_pages" : 275,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["Business", "Communication"]
+    },
+    {
+    "title" : "Thanks for the Feedback",
+    "index_code" : "Business",
+    "year_published" : 2014,
+    "number_pages" : 348,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["Business", "Psychology"]
+    },
+    {
     "title" : "Born for This",
     "index_code" : "Business",
     "year_published" : 2016,
     "number_pages" : 313,
     "time_stamp" : "2017-10-05",
-    "tags" : ["Business", "Career", "Entrepreneur", "Side Hustle"]
+    "tags" : ["Business", "Career", "Entrepreneur", "Side Gig"]
     },
     {
     "title" : "The $100 Startup",

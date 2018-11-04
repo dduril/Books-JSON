@@ -1,5 +1,37 @@
 [
     {
+    "title" : "Murach's ASP.NET 4.6 Web Programming with C# 2015, 6th Edition",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 927,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["ASP.NET", "C#", "MS SQL Server", "Microsoft"]
+    },
+    {
+    "title" : "Murach's HTML5/CSS3, 3rd Edition",
+    "index_code" : "Business",
+    "year_published" : 2015,
+    "number_pages" : 682,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["HTML5", "CSS3", "JavaScript", "Bootstrap 4"]
+    },
+    {
+    "title" : "Murach's JavaScript/jQuery, 3rd Edition",
+    "index_code" : "Business",
+    "year_published" : 2017,
+    "number_pages" : 610,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["HTML5", "CSS3", "JavaScript", "jQuery", "Bootstrap 4"]
+    },
+    {
+    "title" : "Murach's PHP/MySQL, 3rd Edition",
+    "index_code" : "Business",
+    "year_published" : 2017,
+    "number_pages" : 866,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["PHP", "MySQL"]
+    },
+    {
     "title" : "Getting Things Done",
     "index_code" : "Business",
     "year_published" : 2015,
